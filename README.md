@@ -32,8 +32,8 @@ Live Site URL: https://shubhamkumar3110.github.io/Drum-Kit/
 
 ### Built with
 
-- HTML5 markup
-- CSS custom properties
+- HTML
+- CSS
 - Javascript
 
 ### What I Learned
