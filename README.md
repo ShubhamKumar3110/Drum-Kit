@@ -34,19 +34,19 @@ Live Site URL: https://shubhamkumar3110.github.io/Drum-Kit/
 
 - HTML
 - CSS
-- Javascript
+- JavaScript
 
 ### What I Learned
 
-- I learned that we can use custom data- attributes for any element and associate that element with our desired information that we can later access or manipulate with javascript or use it in the css as attribute selector.
+I learned that we can use custom data- attributes for any element and associate that element with our desired information that we can later access or manipulate with javascript or use it in the CSS as an attribute selector.
 
 ### Continued development
 
-- I will be focusing on building responsive webpages.
+I will be focusing on building responsive web pages.
 
 ### Useful resources
 
-- [Wes Bos](https://wesbos.com/) - I followed the tutorials provided by Wes Bos. He teaches a lot of simple projects focused on javascript.
+[Wes Bos](https://wesbos.com/) - I followed the tutorials provided by Wes Bos. He teaches a lot of simple projects focused on JavaScript.
 
 ## Author
-- Shubham Kumar
+Shubham Kumar
